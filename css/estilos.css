@@ -1,21 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
+
+
 body{
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 header{
-
+  font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: #303030;
   color: white;
   text-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff;
   border: 2px solid #0fff;
   border-radius: 8px;
   padding: 10px;
-  font-size: 16px;
+  font-size: 18px;
 }
 .cara{
     border-radius: 500px;
     height: 200px;
+  
+  font-family: "Butcherman", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
+
+
 .uno{
     background-image:url("/imags/technology-785742_640.jpg");
     background-position: center;
@@ -46,6 +56,10 @@ header{
     align-items: center;
     width: 40%;
     background-color: #424242;
+}
+.cursos_realizados{
+    font-size: 25px;
+
 }
 
 
